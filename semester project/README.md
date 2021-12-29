@@ -1,11 +1,6 @@
-# todo_list_app
-![todo](https://user-images.githubusercontent.com/46857727/140636716-9e1dc2a8-c26e-42df-a25f-02b9ea8560cc.jpg)
-A new Flutter project.
-
-## Requirements
-```
-  intl: ^0.17.0
-  sqflite: ^2.0.0+4
-  path_provider: ^2.0.6
-  double_back_to_close_app: ^2.0.1
-```
+![Screenshot_20211229-202919](https://user-images.githubusercontent.com/92267869/147680891-fa114df5-9b55-4762-8e28-5c64d139aef7.jpg)
+![Screenshot_20211229-202923](https://user-images.githubusercontent.com/92267869/147680906-f975658e-98a4-4b45-b137-07b0f8da42fe.jpg)
+![Screenshot_20211229-202929](https://user-images.githubusercontent.com/92267869/147680907-3dc448e5-3770-4ad8-bbcc-51f93c997d9d.jpg)
+![Screenshot_20211229-202859](https://user-images.githubusercontent.com/92267869/147680911-7498f271-7fb7-4f82-b78c-e06ae9cc9356.jpg)
+![Screenshot_20211229-202903](https://user-images.githubusercontent.com/92267869/147680914-163d5122-3009-4864-a2c1-b2d54ee1de5f.jpg)
+![Screenshot_20211229-202914](https://user-images.githubusercontent.com/92267869/147680915-a1b45bc4-4865-46c0-acdb-0e93d8932fb9.jpg)
